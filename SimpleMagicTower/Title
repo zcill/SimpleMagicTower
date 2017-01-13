@@ -1,0 +1,29 @@
+
+
+////////////
+
+设定:
+
+Role： King Queen Knight Soldier
+Weapon: Sword Dagger Bow Axe
+
+////////////
+
+Role    HP      Attack      Defend
+
+King    500     50          5
+Queen   400     40          4
+Knight  200     20          3
+Soldier 100     10          2
+
+///////////
+
+Weapon      Attack
+Sword       15
+Dagger      5
+Bow         10
+Axe         20
+
+
+
+
